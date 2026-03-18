@@ -9,7 +9,7 @@
 Passionate about building impactful software, with a focus on Artificial Intelligence, iOS development, and full-stack applications. I enjoy turning ideas into real-world solutions through clean design and efficient code. Working with tech has completely reshaped my perspective. The more I build, the more I’ve learned that ideas aren’t distant dreams; they’re fully within reach when we stay curious, committed, and confident in our ability to create.<br/>
 
 ## Fun Fact About Me
-When I'm not coding, I'm crocheting. I love the symmetry between the two. Both are about building something meaningful one step at a time. With every line of code or stitch of yarn, I'm creating something from nothing, gradually bringing an idea to life. It reminds me that progress doesn't have to be rushed and that consistency and patience are what truly matter. One stitch next to another, one line after the next, I can build anything I imagine. All I need is my hands, a dream, and a little courage and discipline to turn ideas into reality.<br/>
+When I'm not coding, I'm usually crocheting. With every line of code or stitch of yarn, I'm creating something from nothing to bringing an idea to life. It reminds me that progress doesn't have to be rushed and that consistency and patience are what truly matter. One stitch next to another, one line after the next, I can build anything I imagine. All I need is my hands, a dream, and a little courage and discipline to turn ideas into reality.<br/>
 
 
 
