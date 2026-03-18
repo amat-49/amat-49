@@ -1,12 +1,12 @@
 ## Hello, I'm Amat 
 
-💻 Software Engineering Student @ University of Michigan - Dearborn
-🌟 Concentration in Artificial Intelligence 
-👩🏽‍💻 iOS Development Student @ Apple Developer Academy - MSU 
-📱 Mobile App Development Certificate | Henry Ford College (2024)
+💻 Software Engineering Student @ University of Michigan - Dearborn<br/>
+🌟 Concentration in Artificial Intelligence<br/>
+👩🏽‍💻 iOS Development Student @ Apple Developer Academy - MSU<br/> 
+📱 Mobile App Development Certificate | Henry Ford College (2024)<br/>
 
 ## About Me 
-💡 Focused on Artificial Intelligence, iOS Development, and Full-Stack Apps
+💡 Focused on Artificial Intelligence, iOS Development, and Full-Stack Apps<br/>
 
 
 ## 🌐 Socials:
